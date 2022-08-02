@@ -43,4 +43,4 @@ We will look for an InnerSource evangelist from each business unit.
 The group of evangelists will meet once each month to review KPIs, learn of new InnerSource projects, make plans to improve, and report on assignments.
 Each evangelist reports on InnerSource in their business unit leadership meeting once each quarter.
 
-The group of people driving InnerSource projects will meet monthly to retro on how things are going and to make plans to improve the practice of InnerSource at WellSky.
+The group of people driving InnerSource projects will meet monthly to retro on how things are going and to make plans to improve the practice of InnerSource at the company.
