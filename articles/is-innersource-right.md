@@ -24,6 +24,10 @@ Even with willing contributors, the code doesn't just flow in. You will need to 
 -   Timely review of incoming pull requests.
 -   Ongoing maintenance of submitted code (after the [warranty window](https://patterns.innersourcecommons.org/p/30-day-warranty)).
 
+## Is it Company Specific?
+
+InnerSource projects make sense when the project is specific to the company or gives the company a strategic business advantage. Other collaborative projects should be run as open source so as to increase the contribution pool and impact.
+
 ## Summary
 
-If contributions will come **and** you will support them, then InnerSource is right for your project.
+If your project is company-specific *and* contributions will come **and** you will support those contributions, then InnerSource is right for your project.
