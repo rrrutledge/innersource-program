@@ -9,10 +9,20 @@ This document defines the training needed for each of the roles involved in [com
 
 **Team Leader**
 
-* **Goal**: Everything from **Team Member**, plus how to find InnerSource projects.
+* **Goal**: Everything from **Team Member**, plus how to find InnerSource projects and how to evaluate my team's engagement in InnerSource.
 * Everything from **Team Member**.
 * How to find InnerSource projects.
 * How to view my team adoption and contribution to InnerSource projects compared to other teams in my business unit.
 
+**Champion**
+
+* **Goal**: Understand what is InnerSource and how to evaluate my business unit's engagement in InnerSource.
+* InnerSource is contributing code even though you are not a part of the team that owns the repo.
+* How to view my business unit adoption and contribution to InnerSource projects compared to other business units.
+* How to view adoption and contribution to InnerSource projects for teams in my business unit.
+
+**VP**
+* **Goal**: Same as **Champion**.
+* Same as **Champion**.
 
 [competency change]: ./competency-change.md
