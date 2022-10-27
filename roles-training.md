@@ -10,4 +10,4 @@ This document defines the training needed for each of the roles involved in [com
 **Team Leader**
 
 
-[competency change]: ../competency-change.md
+[competency change]: ./competency-change.md
