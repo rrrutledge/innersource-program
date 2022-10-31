@@ -11,3 +11,7 @@ Here are the roles involved in running a program for company-wide change in comp
 | **Champion** | Each VP has at least one champion.  The VP enables this person to drive improvement in the competency across their area. |
 | **Team Leader** | People in leadership/influence position on an individual team. Could be engineering/solution/scrum manager, etc. |
 | **Team Member** | This person is on a regular team at the company.  We want these regular teams to improve in the given competency. |
+
+Here is a picture of the relationships between these roles.
+
+![Competency Roles](./resources/Competency%20Roles.png)
