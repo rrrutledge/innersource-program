@@ -1,4 +1,4 @@
-Broad InnerSource adoption an example of a competency change.
+Broad InnerSource adoption is an example of a competency change.
 Some competency (in this example InnerSource) should be upleveled across the company.
 
 Here are the roles involved in running a competency change effort.
