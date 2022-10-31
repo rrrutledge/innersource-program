@@ -22,7 +22,18 @@ This document defines the training needed for each of the roles involved in [com
 * How to view adoption and contribution to InnerSource projects for teams in my business unit.
 
 **VP**
+
 * **Goal**: Same as **Champion**.
 * Same as **Champion**.
+
+**CTO**
+
+* **Goal**: Evaluate the company engagement with InnerSource.
+* How to view company adoption and contribution to InnerSource projects over time.
+* How to view the above by business unit.
+
+**Driver**
+* No training needed, here.
+This driver will oversees and ensures the training of others.
 
 [competency change]: ./competency-change.md
